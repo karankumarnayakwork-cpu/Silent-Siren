@@ -1,3 +1,5 @@
+#Silent Siren
+
 📌 Project Description
 
 Silent Siren is a real-time gesture-based emergency alert system built using OpenCV, MediaPipe, and Python. The system is designed to assist individuals in distress situations where verbal communication may not be possible.
